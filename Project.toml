@@ -1,0 +1,7 @@
+name = "BeonDemo"
+uuid = "f50a43e6-39af-46f7-8575-12913bc09e63"
+authors = ["beorostica-asusFX505GT-win <beorostica@uc.cl>"]
+version = "0.1.0"
+
+[deps]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
